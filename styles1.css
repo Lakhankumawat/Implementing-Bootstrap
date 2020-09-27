@@ -1,0 +1,36 @@
+body{
+    margin :0;
+}
+.navbar{
+    padding:0 0 4.5rem;
+  }
+  .navbar-brand{
+    font-family: "Ubuntu";
+    font-size:2.2rem;
+  }
+  .nav-item{
+    padding: 0 10px;
+  }
+  .nav-link{
+    font-size: 1.5rem;
+    font-family: "Montserrat- Light";
+  }
+  .jumbotron{
+      margin: 0;
+  }
+  /* Testimonials Section */
+#testimonials{
+    padding: 7% 10%;
+    text-align: center;
+    background-color:#e9ecef;
+    color:#212529;
+  }
+  .testimonial-image{
+  width:10%;
+  border-radius: 100%;
+  margin:20px;
+  
+  }
+  .carousel-item{
+    padding: 7% 10%;
+  }
